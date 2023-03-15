@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611257439268",
+    "project_id": "ctrlabtest",
+    "storage_bucket": "ctrlabtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611257439268:android:6b69a426cb84893017b4b1",
+        "android_client_info": {
+          "package_name": "com.example.ctrlabtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611257439268-9g7c4o3s45kkvk038fjgnksq05molo7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPzSemnpK7LPXrId3tvYFqJ-dAQXm1AN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611257439268-9g7c4o3s45kkvk038fjgnksq05molo7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
